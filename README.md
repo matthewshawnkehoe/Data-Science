@@ -7,4 +7,5 @@ A collection of Jupyter Notebooks highlighting several exploratory data science 
 - Exploring Hacker News Posts
 - Exploring Heavy Traffic on I-94
 - Profitable App Profiles for the App Store
+- Star Wars Survey: America's Favorite Star Wars Movie
 - Storytelling Data Visualization on Exchange Rates
