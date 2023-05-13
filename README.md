@@ -1,6 +1,7 @@
 # Data Analysis
 A collection of Jupyter Notebooks highlighting several exploratory data science projects including:
- 
+
+- Analyzing CIA Factbook Data Using SQL 
 - Analyzing NYC High School Data
 - Cleaning and Analyzing Exployee Exit Surveys
 - Exploring eBay Car Sales Data
