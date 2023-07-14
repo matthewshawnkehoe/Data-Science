@@ -8,6 +8,7 @@ A collection of Jupyter Notebooks highlighting several exploratory data science 
 - Exploring eBay Car Sales Data
 - Exploring Hacker News Posts
 - Exploring Heavy Traffic on I-94
+- Finding the Best Markets to Advertise In
 - Investigating Fandango Movie Ratings
 - Popular Data Science Questions
 - Profitable App Profiles for the App Store
