@@ -10,6 +10,7 @@ A collection of Jupyter Notebooks highlighting several exploratory data science 
 - Exploring Heavy Traffic on I-94
 - Finding the Best Markets to Advertise In
 - Investigating Fandango Movie Ratings
+- Mobile App for Lottery Addiction
 - Popular Data Science Questions
 - Profitable App Profiles for the App Store
 - Star Wars Survey: America's Favorite Star Wars Movie
