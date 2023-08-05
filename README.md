@@ -4,6 +4,7 @@ A collection of Jupyter Notebooks highlighting several exploratory data science 
 - Analyzing CIA Factbook Data Using SQL 
 - Analyzing NYC High School Data
 - Answering Business Questions Using SQL
+- Building a Spam Filter with Naive Bayes
 - Cleaning and Analyzing Exployee Exit Surveys
 - Exploring eBay Car Sales Data
 - Exploring Hacker News Posts
