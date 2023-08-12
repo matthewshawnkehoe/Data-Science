@@ -16,3 +16,4 @@ A collection of Jupyter Notebooks highlighting several exploratory data science 
 - Profitable App Profiles for the App Store
 - Star Wars Survey: America's Favorite Star Wars Movie
 - Storytelling Data Visualization on Exchange Rates
+- Winning Jeopardy
