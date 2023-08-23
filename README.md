@@ -1,19 +1,26 @@
-# Data Analysis
-A collection of Jupyter Notebooks highlighting several exploratory data science projects including:
+# Data Science Projects
+These are guided projects that I have worked on through the Data Science Path at [DataQuest](https://www.dataquest.io/).
 
-- Analyzing CIA Factbook Data Using SQL 
-- Analyzing NYC High School Data
-- Answering Business Questions Using SQL
-- Building a Spam Filter with Naive Bayes
-- Cleaning and Analyzing Exployee Exit Surveys
-- Exploring eBay Car Sales Data
-- Exploring Hacker News Posts
-- Exploring Heavy Traffic on I-94
-- Finding the Best Markets to Advertise In
-- Investigating Fandango Movie Ratings
-- Mobile App for Lottery Addiction
-- Popular Data Science Questions
-- Profitable App Profiles for the App Store
-- Star Wars Survey: America's Favorite Star Wars Movie
-- Storytelling Data Visualization on Exchange Rates
-- Winning Jeopardy
+# Contents
+## Data Analysis and Visualization
+- `Analyzing NYC High School Data`: Analyze the New York City public schools data to find out what are the reasons causing unfair advantages to certain groups in the US educational system.
+- `Building a Spam Filter with Naive Bayes`: The spam filter project used the multinomial Naive Bayes algorithm and a labeled dataset of 5,572 SMS messages to create a filter that can classify new messages as spam or ham. The accuracy of the filter was 98.74%, which exceeded the initial goal by almost 20%.
+- `Clean and Analyzing Employee Exit Surveys`: The survey was taken by the Australian Department of Education, Training, and Employment (DETE) and the Technical and Further Education (TAFE) institute. The purpose of this survey was to assess the opinions and attitudes of departing employees and what were the main reasons for them to resign.
+- `Exploring eBay Car Sales Data`: Analysis on the German eBay website to determine the factors involved in the car prices. What are the most popular and least fortune cars on the website listings?
+- `Exploring Hacker News Posts`: Analysis of the Hacker News posts to determine which type of post and time receive the most comments on average.
+- `Exploring Heavy Traffic on I-94`: The goal of this project is to analyze the I-94 traffic (from Minneapolis to Saint Paul, USA), then determine what are the indicators of heavy traffic.
+- `Finding Best Markets to Advertise In`: This project aimed to find the best two markets to advertise our programming courses. We analyzed survey data from new coders and concluded that the US would be a good market to target. However, choosing between India and Canada for the second market was not clear-cut. Therefore, we provided our results to the marketing team to make an informed decision based on their domain knowledge.
+- `Investigating Fandango Movie Ratings`: In this project, we analyze recent movie ratings data to determine if Fandango's rating system has changed since a 2015 analysis revealed it was biased. The previous analysis found that Fandango inflated movie ratings and displayed them differently than their actual value. Our goal is to see if this issue has been fixed and if Fandango's rating system is now more reliable.
+- `Mobile App for Lottery Addiction`: The project aimed at helping people make informed decisions about playing the lottery. The goal of the project is to create a mobile app that calculates the probability of winning the lottery under different scenarios, including playing one or several tickets, expecting to win the big prize or a smaller one, and using historical data to check if a combination of numbers has ever won before. The project provides insights into the probability of winning and the cost of playing, which can help players make informed decisions about playing the lottery.
+- `Popular Data Science Questions`: This project focuses on identifying the most sought-after topics in the field of data science by examining popular questions and content on the Stack Exchange network. The project is set in a business context where the goal is to create valuable data science content for the company. However, with the absence of clear instructions, the project allows for some flexibility and creativity in defining what "best" means. The objective of the project is guided by the passion for helping people learn and improve their data science skills. The project takes inspiration from the researcher's personal experience with learning programming and the popularity of certain programming topics on Stack Overflow.
+- `Profitable App Profiles for the App Store`: While it is possible that an app doing great on the App Store but not so well on Google Play. This project will help mobile app developers to understand what are the key elements to consider to make an app profitable on both platforms.
+- `Star Wars Survey- America's Favorite Star Wars Movie`: The project acquires a Star Wars to understand the thoughts of the fans towards the franchise. For example, demographic data to show which fan base is more than the other, which is the favorite Star Wars movie, who is the favorite actor, and more.
+- `Storytelling Data Visualization on Exchange Rates`: The goal of this project is to explore the evolution of the exchange rates between EUR-USD and EUR-RUB during the Covid pandemic in 2020.
+- `Winning Jeopardy`: This project analyzes a dataset of Jeopardy questions to identify trends and patterns in question topics, values, and difficulty levels. The analysis includes hypothesis testing using chi-squared tests. The project aims to uncover insights into the game's structure and offer recommendations for players.
+
+## SQL
+- `Analyzing CIA Factbook Data Using SQL`: The CIA factbook is an annual publication of the US Central Intelligence Agency, provides basic intelligence by summarizing information about worldwide demographic and geographic data.
+- `Answering Business Questions Using SQL`: Suppose we have access to a fictional online music store called Chinook inluding information about artists, songs, and albums from their music store. Our task is to use SQL to write database queries to increase profit.
+
+## Machine Learning
+- `Predicting Heart Disease`: This project aimed to develop a predictive model for heart disease detection using a provided dataset. After data cleaning and feature selection through correlation analysis, a KNN classifier was trained on selected features, achieving an 81.88% accuracy on the test set. While promising, further evaluation and refinement of the model may be necessary before implementation in a real-world healthcare setting.
