@@ -1,5 +1,5 @@
 # Data Science Projects
-These are guided projects that I have worked on through the Data Science Path at [DataQuest](https://www.dataquest.io/).
+These are projects that I have worked on through the Data Science Path at [DataQuest](https://www.dataquest.io/).
 
 # Contents
 ## Data Analysis and Visualization
